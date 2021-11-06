@@ -53,5 +53,5 @@ class ElectroDevices{
     computer.voltageConsumption(440, 2, "Laptop")
     mixer.voltageConsumption(150, 0.5, "Mixer")
     
-    console.log(computer)
-    console.log(mixer)
+//     console.log(computer)
+//     console.log(mixer)
